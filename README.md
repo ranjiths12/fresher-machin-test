@@ -39,7 +39,7 @@ Refer to the [Contacts View](https://github.com/abdulbitcot/fresher-machin-test/
 
 - Fetch the Contact list from [https://raw.githubusercontent.com/BitcotDev/fresher-machin-test/main/json/sample.json](https://raw.githubusercontent.com/BitcotDev/fresher-machin-test/main/json/sample.json)
 - Display Contact list
-- Click on delete icon it should be remove from contact list.
+- Click on delete icon it should be remove from contact list in your react state.
 
 ### "Add Contact" Screen
 
