@@ -72,7 +72,7 @@ Refer to the [View Contact Details](https://github.com/abdulbitcot/fresher-machi
 
 Refer to the [Search Contact](https://github.com/abdulbitcot/fresher-machin-test/blob/main/screens/Screen5.png) Screen
 
-- When I write any this thing in the search field it should be search by first name, last name and phone number.
+- When I write anything in the search field it should be search by first name, last name and phone number and result shown in the list.
 
 
 ## Other Notes
