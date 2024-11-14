@@ -1,0 +1,38 @@
+.btn-style {
+  background-color: #7ecee9 !important;
+  color: white !important;
+  padding: 10px 20px;
+  border: none !important;
+  border-radius: 5px !important;
+  cursor: pointer !important;
+  font-size: 20px !important;
+}
+
+.listing-container {
+  background-color: black;
+  padding: 20px;
+  border-radius: 20px;
+  position: fixed;
+  width: 30%;
+}
+.customer-details {
+  background-color: #fff;
+  padding: 10px 25px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+.name-number {
+  display: flex;
+  align-items: center;
+}
+@media (min-width:1px) and (max-width:767.98px){
+  .listing-container {width: 100%; position: relative;}
+  .customer-details {padding: 10px;}
+}
+@media (min-width:768px) and (max-width:991.98px){
+  .listing-container {width: 100%; position: relative;}
+  .customer-details {padding: 10px;}
+}
